@@ -56,7 +56,9 @@ linux-basics-project/
 
 ## 📸 Screenshots
 
-Screenshots demonstrating the project structure and Linux terminal commands will be added here.
+### Project Directory Structure
+  ![Directory Structure](screenshots/directory-structure.png)
+
 
 ## 📖 What I Learned
 
